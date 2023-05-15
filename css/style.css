@@ -1,0 +1,74 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body { 
+  font-family: 'Strait', sans-serif;
+  background-color: #0B3D91;
+}
+
+.headerButtonSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid #FC3D21;
+  background-color: #0B3D91;
+  color: white;
+  padding-bottom: 20px;
+}
+
+input {
+  background-color: #0B3D91;
+  color: white;
+  border: 3px solid black;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button {
+  background-color: #0B3D91;
+  color: white;
+  border: 3px solid black;
+  margin-top: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 75%;
+}
+
+.pictureOfDay {
+  padding-top: 50px;
+  background-color: black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: 2px solid #FC3D21;
+  background-color: #0B3D91;
+  color: white;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
