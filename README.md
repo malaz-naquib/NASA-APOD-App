@@ -4,7 +4,7 @@ Ever wondered what NASA's picture of the day was on your birthday? Your annivers
 
 **Check it out here:** https://nasa-apod-app-mn.netlify.app/
 
-![APOD Banner](https://github.com/malaz-naquib/NASA-APOD-App/assets/113329798/9dc7d471-84b1-4075-a1ee-812be1f4c1dc)
+![nasa-apod-gif](https://github.com/malaz-naquib/NASA-APOD-App/assets/113329798/2fe140fe-9262-4f5d-8b9f-b119a83908fb)
 
 ## Description:
 
